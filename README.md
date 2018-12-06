@@ -1,2 +1,2 @@
-# IBVS-For-UAV-Target-Follwing
-IBVS for UAV Target trcking and follwing VIA two mutually exexlusive deep networks
+# IBVS-For-UAV-Target-Following
+IBVS for UAV Target tracking and following VIA two mutually exclusive deep networks.
