@@ -1,4 +1,4 @@
-# IBVS-For-UAV-Target-Following
+# UAV TARGET TRACKING BY DETECTION VIA DEEP NEURAL NETWORKS
 A pure Image Based Visual Servoing (IBVS) system is proposed for target tracking and following from a flying UAV via deep neural networks. the UAV utilizes the tracked visual features to chase the desired target and estimates its relative distance.
 The real flight experiments showed the efficiency of the proposed system in tracking and following tasks.
  
